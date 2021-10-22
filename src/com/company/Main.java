@@ -21,7 +21,5 @@ public class Main {
         }
         System.out.println("Current item: №" + arr.getCurrentSize()+ ", Container size:" + arr.getSize());
         System.out.println("Current item: №4 = "+ arr.get_i_Elem(4));
-        System.out.println();
-        System.out.println();
     }
 }
